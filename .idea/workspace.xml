@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d81c3ce-3551-41b6-a821-ec90b96b2fb5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/aa/bun.lockb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aa/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aa/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aa/src/app.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aa/src/app.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aa/src/assets/preact.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aa/src/assets/typescript.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aa/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aa/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aa/src/types/css-modules.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aa/src/types/svg.modules.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aa/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aa/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/aa/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aa/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/aa/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bun-preact-ts/bun.lockb" beforeDir="false" afterPath="$PROJECT_DIR$/bun-preact-ts/bun.lockb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bun-preact-ts" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2mu4bmsAAvfHUO4ZpYwmdjK6G0C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/dev/js/bun-preact-ts/aa",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/user/.bun/bin/bun",
+    "nodejs_package_manager_path": "C:\\Users\\user\\.bun\\bin\\bun.exe",
+    "ts.external.directory.path": "D:\\dev\\js\\bun-preact-ts\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.22855.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d81c3ce-3551-41b6-a821-ec90b96b2fb5" name="Changes" comment="" />
+      <created>1727913201939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727913201939</updated>
+      <workItem from="1727913202620" duration="302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
