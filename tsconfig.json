@@ -8,10 +8,13 @@
       "react": ["node_modules/preact/compat"],
       "react-dom": ["./node_modules/preact/compat/"]
     },
-    "typeRoots": ["src/types", "./node_modules/@types"]
+    "typeRoots": [
+      "src/types", "./node_modules/@types"]
   },
   "resolve": {
-    "extensions": [".js", ".jsx", ".ts", ".tsx", ".json", ".svg", ".css"]
+    "extensions": [".tsx", ".jsx", ".ts", ".js", ".json", ".svg", ".css"]
   },
-  "include": ["src"]
+  "include": [
+    "src"
+  ]
 }

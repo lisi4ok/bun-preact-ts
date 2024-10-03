@@ -1,8 +1,13 @@
-import { useState } from 'preact/hooks'
-import preactLogo from './assets/preact.svg'
-import typescriptLogo from './assets/typescript.svg'
+import { useState } from "preact/hooks"
+import preactLogo from "./assets/preact.svg"
+import typescriptLogo from "./assets/typescript.svg"
 import styles from "./app.module.css"
 
+import { h, render, Component } from 'preact';
+
+class App extends Component {
+
+}
 export function App() {
   const [count, setCount] = useState(0)
 
