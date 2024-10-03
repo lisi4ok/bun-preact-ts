@@ -11,7 +11,7 @@ with TypeScript instead of the default JavaScript configuration.
 To create a TS Preact project with bun:
 
 ```sh
-bun create lisi4ok/bun-preact-ts ./bun-preact-ts
+bun create @lisi4ok/bun-preact-ts ./bun-preact-ts
 ```
 
 To create a regular JS Preact project with bun:
