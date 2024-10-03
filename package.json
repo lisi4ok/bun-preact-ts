@@ -1,6 +1,24 @@
 {
-  "name": "bun-preact-tsx",
+  "name": "@lisi4ok/bun-preact-tsx",
+  "private": false,
   "version": "0.0.1",
+  "description": "Bun Preact TSC Template package",
+  "keywords": [
+    "bun",
+    "preact.js",
+    "tsx"
+  ],
+  "homepage": "https://lisi4ok.com/",
+  "license": "MIT",
+  "author": {
+    "email": "master@lisi4ok.com",
+    "name": "Zaio Klepoyshkov",
+    "url": "https://lisi4ok.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lisi4ok/bun-preact-tsx.git"
+  },
   "type": "module",
   "devDependencies": {
     "@types/bun": "^1.1.10"
