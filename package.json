@@ -1,7 +1,7 @@
 {
   "name": "@lisi4ok/bun-preact-tsx",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Bun Preact TSC Template package",
   "keywords": [
     "bun",
@@ -20,13 +20,12 @@
     "url": "https://github.com/lisi4ok/bun-preact-tsx.git"
   },
   "type": "module",
-  "devDependencies": {
-    "@types/bun": "^1.1.10"
-  },
-  "dependencies": {
-    "preact": "^10.24.1"
-  },
   "scripts": {
     "start": "bun dev"
-  }
+  },
+  "devDependencies": {
+    "@types/bun": "^1.1.10",
+    "preact": "^10.24.1"
+  },
+  "dependencies": {}
 }
