@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8d81c3ce-3551-41b6-a821-ec90b96b2fb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/aa/bun.lockb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aa/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aa/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aa/src/app.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aa/src/app.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aa/src/assets/preact.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aa/src/assets/typescript.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aa/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aa/src/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aa/src/types/css-modules.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aa/src/types/svg.modules.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aa/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aa/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/aa/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aa/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/aa/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bun-preact-ts/bun.lockb" beforeDir="false" afterPath="$PROJECT_DIR$/bun-preact-ts/bun.lockb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/bun.lockb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/src/app.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/src/app.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/src/assets/preact.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/src/assets/typescript.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/src/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/src/types/css-modules.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/src/types/svg.modules.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/tsconfig.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,11 +30,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bun-preact-ts" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2mu4bmsAAvfHUO4ZpYwmdjK6G0C" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -45,7 +51,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "C:/Users/user/.bun/bin/bun",
     "nodejs_package_manager_path": "C:\\Users\\user\\.bun\\bin\\bun.exe",
-    "ts.external.directory.path": "D:\\dev\\js\\bun-preact-ts\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "D:\\Applications\\WebStorm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
